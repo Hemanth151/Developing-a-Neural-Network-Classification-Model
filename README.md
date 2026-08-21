@@ -169,6 +169,8 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 
 
 ## OUTPUT
+<img width="300" height="297" alt="image" src="https://github.com/user-attachments/assets/d24b4dda-f5c8-45d2-8a38-4bf9d31294d4" />
+
 
 
 
@@ -178,7 +180,9 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 
 
 ## Confusion Matrix
-![Uploading image.png…]()
+
+<img width="287" height="300" alt="image" src="https://github.com/user-attachments/assets/b9511455-d72e-4be5-9eac-29da5c22f7d8" />
+
 
 
 
@@ -193,6 +197,8 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 
 
 ### New Sample Data Prediction
+<img width="312" height="301" alt="image" src="https://github.com/user-attachments/assets/5d061963-8f4d-432e-aec7-7d86b08e15c0" />
+
 
 
 Include your sample input and output here
