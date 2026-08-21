@@ -168,8 +168,9 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 
 
 
-### OUTPUT
-![Uploading image.png…]()
+## OUTPUT
+
+
 
 
 
@@ -178,6 +179,8 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 
 ## Confusion Matrix
 ![Uploading image.png…]()
+
+
 
 
 
@@ -195,6 +198,5 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 Include your sample input and output here
 
 ## RESULT
-![Uploading image.png…]()
 
 Include your result here
